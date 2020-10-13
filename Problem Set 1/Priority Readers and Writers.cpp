@@ -10,7 +10,7 @@ const int num_writers = 5;
 const int num_reads = 5;
 const int num_writes = 5;
 const int min_sleep_millis = 0;
-const int max_sleep_millis = 200;
+const int max_sleep_millis = 50;
 const int min_shared_val = 111111111;
 const int max_shared_val = 999999999;
 
